@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YukaC
-- 👀 I’m interested in leran more about programming
-- 🌱 I’m currently learning C/C++, Python, JavaScript, HTML, CSS
-- 💻 I’m currently working on projects at my university
+- 👀I'm interested in learning more and more about programming
+- 🌱 I’m currently learning React, Tailwind & Javascript
+- 💻 I’m currently looking for a job
 - 📫 How to reach me agusyuk25@gmail.com
 - Sorry for my bad English, I'm a little rusty.😅
 
