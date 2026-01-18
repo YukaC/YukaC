@@ -71,8 +71,10 @@ I love building web applications and turning complex problems into simple, beaut
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YukaC&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukaC&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  
+  <br/><br/>
+  
+  <img src="https://metrics.lecoq.io/YukaC?theme=dark&base=header,repositories,metadata&config.timezone=America%2FArgentina%2FBuenos_Aires" width="100%" alt="metrics graph" />
 </div>
 
 ###
