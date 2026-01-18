@@ -26,7 +26,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-I am a passionate <b>Frontend Developer</b> from Argentina 🇦🇷.<br> 
+I am a passionate <b>Full Stack Developer</b> from Argentina 🇦🇷.<br> 
 Recently graduated and currently focused on <b>finding my first job in the IT world.</b><br>
 I love building web applications and turning complex problems into simple, beautiful, and intuitive interface designs.
 <br><br>
