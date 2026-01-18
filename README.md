@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/ajqjxYQ0oh0AAAAi/cowboybebop-cowboy-bebop.gif" width="35%" />
+  <img src="https://media.tenor.com/ajqjxYQ0oh0AAAAi/cowboybebop-cowboy-bebop.gif" width="30%" />
 </div>
 
 ###
@@ -53,7 +53,7 @@ I love building web applications and turning complex problems into simple, beaut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   
-  <br /> <br />
+  <br />
 
   <h4 align="left">Backend</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -63,18 +63,6 @@ I love building web applications and turning complex problems into simple, beaut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YukaC&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  
-  <br/><br/>
-  
-  <img src="https://metrics.lecoq.io/YukaC?theme=dark&base=header,repositories,metadata&config.timezone=America%2FArgentina%2FBuenos_Aires" width="100%" alt="metrics graph" />
 </div>
 
 ###
